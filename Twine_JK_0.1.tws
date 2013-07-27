@@ -5,7 +5,7 @@ V/Users/judithekoch/Dropbox/Twine/Own/GrandmasOrchard.html
 p2
 sS'saveDestination'
 p3
-V/Users/judithekoch/Dropbox/Twine/Own/Twine_JK_0.1.tws
+S'C:\\Users\\skyst_000\\Documents\\GitHub\\twine\\Twine_JK_0.1.tws'
 p4
 sS'target'
 p5
@@ -140,7 +140,7 @@ VStoryAuthor
 p52
 sbsa(dp53
 g12
-I00
+I01
 sg13
 (lp54
 I76
@@ -151,7 +151,7 @@ Tiddler
 p55
 (dp56
 g18
-V
+Vbody {\u000a	background: url(img/Honeycrisp_apple_orchard.jpg);\u000a	/* http://upload.wikimedia.org/wikipedia/commons/8/87/Honeycrisp_apple_orchard.jpg */\u000a	background-size: cover;\u000a	background-repeat: no-repeat;\u000a	background-position: center center;\u000a	background-attachment: fixed;\u000a\u000a	font-family: "Times New Roman", serif;\u000a	color: white;\u000a	text-shadow: 0px 0px 5px black;\u000a	\u000a}\u000a\u000a#title {\u000a	color: white !important;\u000a}\u000a\u000a#storyAuthor {\u000a	font-size: 60% !important;\u000a}\u000a\u000a#sidebar li {\u000a	color: white !important;\u000a}\u000a\u000a#snapback:hover, #restart:hover, #share:hover {\u000a	color: DarkOrange !important;\u000a}\u000a\u000a#storyTitle {\u000a	font-family: Georgia, serif;\u000a	font-size: 30px;\u000a	color: white;\u000a}\u000a\u000a#passages {\u000a	position: relative;\u000a	top: 40px;\u000a	font-size: 16px;\u000a	margin-left: 11.5em;\u000a}\u000a\u000aa {\u000a	color: OrangeRed !important;\u000a\u000a}\u000a\u000a.content {\u000a	text-shadow: 5px black;\u000a\u000a}
 p57
 sg29
 (lp58
@@ -1003,7 +1003,7 @@ Vlabyrinth
 p316
 sbsa(dp317
 g12
-I01
+I00
 sg13
 (lp318
 I1220
